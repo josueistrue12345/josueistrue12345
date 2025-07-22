@@ -1,4 +1,4 @@
-# 👋 ¡Hola! Soy Josue Hernandez
+# 👋 ¡Hola! Soy Josué Hernández
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=2D96FF&center=true&vCenter=true&width=600&lines=Desarrollador+FullStack;L%C3%ADder+T%C3%A9cnico;Apasionado+por+la+Innovaci%C3%B3n" alt="Typing SVG" />
